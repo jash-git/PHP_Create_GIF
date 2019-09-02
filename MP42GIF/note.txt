@@ -1,0 +1,6 @@
+程式設計師 修BUG
+
+https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247490232&idx=4&sn=6dc2fba055e26b012120649b068e0ecc&chksm=e91b7fa4de6cf6b29db20c376963277dd51e68bf50dfbe747b9ab7efcfd742a0efef6b523608&scene=0&xtrack=1&key=d7c04bb266a3c48cc6a340216af0462721cb37ecc76eb331d14881d73af4c06068c3c632d5d59adaa47e585205ecc6d00e02da4b55baf5bc325ec9a90ab793110151c04c5df31140e2f00ee5e997f80b&ascene=1&uin=MjIwODk2NDgxNw%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_TW&pass_ticket=iaFaZMelnn8Py43FVDqYh2I9iI2ys%2B59F7nuMACc9Z44LC%2FHeYkQIQz6Dy1PB8aL
+
+使用網站將mp4轉GIF
+如果要自己寫工具 就要FFMPEG截圖 + PHP轉 GIF
